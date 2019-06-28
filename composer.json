@@ -1,0 +1,16 @@
+{
+    "name": "tolentino/ejemplo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Edwin Tolentino Carhua",
+        "email": "edwin.tolentino@unas.edu.pe"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "tolentino\\ejemplo\\": "src/"
+        }
+    }
+}
